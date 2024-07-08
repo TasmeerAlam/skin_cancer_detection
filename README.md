@@ -1,8 +1,8 @@
 # skin_cancer_detection
-#Skin Cancer Detection Decision Support System (DSS)
+# Skin Cancer Detection Decision Support System (DSS)
 
 
-Project Overview
+## Project Overview
 
 Skin cancer is one of the most common types of cancer globally. Early diagnosis is crucial for effective treatment and management. This project introduces a robust Decision Support System (DSS) designed to aid in the detection and classification of skin cancer through an easy-to-use interface.
 
