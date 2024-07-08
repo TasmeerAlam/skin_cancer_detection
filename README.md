@@ -1,5 +1,5 @@
 # skin_cancer_detection
-Skin Cancer Detection Decision Support System (DSS)
+#Skin Cancer Detection Decision Support System (DSS)
 
 
 Project Overview
