@@ -7,7 +7,7 @@
 Skin cancer is one of the most common types of cancer globally. Early diagnosis is crucial for effective treatment and management. This project introduces a robust Decision Support System (DSS) designed to aid in the detection and classification of skin cancer through an easy-to-use interface.
 
 
-Key Features
+## Key Features
 
 Integrated Classification and Retrieval: Combines advanced machine learning models to provide accurate classification and relevant case retrieval.
 
@@ -20,12 +20,12 @@ Content-Based Image Retrieval (CBIR): Implements CBIR with feature fusion using 
 User-Friendly Interface: Designed with clinicians in mind, providing a straightforward and effective tool for querying and receiving feedback on skin lesions.
 
 
-Dataset
+## Dataset
 
 The system is trained on a dataset of 1,300 dermoscopic images spanning ten different classes of skin conditions.
 
 
-Performance
+## Performance
 
 The application of feature fusion and ensemble techniques across all available deep feature spaces has led to the best classification accuracy (85%) and retrieval performance on the test dataset.
 
