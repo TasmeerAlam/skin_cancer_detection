@@ -30,6 +30,6 @@ The system is trained on a dataset of 1,300 dermoscopic images spanning ten diff
 The application of feature fusion and ensemble techniques across all available deep feature spaces has led to the best classification accuracy (85%) and retrieval performance on the test dataset.
 
 
-Potential Impact
+## Potential Impact
 
 By reducing the reliance on visual observation, which is prone to human error, this system enhances clinical decision-making capabilities, particularly for early screening of skin cancers. It aims to provide dermatologists with a reliable, efficient tool for assessing skin lesions, improving diagnostic accuracy, and potentially saving lives through earlier intervention.
